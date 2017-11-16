@@ -1,0 +1,7 @@
+search(S, k)
+Insert(S, x)
+Delete(S, x)
+Minimum(S)
+Maximum(S)
+Successor(S, x)
+Predecessor(S, x)
